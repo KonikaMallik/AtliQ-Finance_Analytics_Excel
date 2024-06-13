@@ -16,9 +16,11 @@ Power Query, Power Pivot, DAX, Data Modelling, Data Transformation
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KonikaMallik/AtliQ-Finance_Analytics_Excel/blob/main/P%26Lby_Year_Report.pdf)_ & _[Months](https://github.com/KonikaMallik/AtliQ-Finance_Analytics_Excel/blob/main/P%26L_by_Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KonikaMallik/AtiliQ-Sales-and-Finance-Analytics-Report/blob/main/P%26L_by_Market.pdf)_
+
+    **3.** Create Gross Margin % reports by [Quarters](https://github.com/KonikaMallik/AtliQ-Finance_Analytics_Excel/blob/main/GrossMargin%25_Quarters.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
