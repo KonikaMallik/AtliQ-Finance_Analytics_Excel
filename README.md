@@ -30,7 +30,8 @@ Power Query, Power Pivot, DAX, Data Modelling, Data Transformation
 
 **Data Model:**
 
-https://github.com/KonikaMallik/AtliQ-Finance_Analytics_Excel/blob/main/Finance_DataModel.png 
+![image](https://github.com/KonikaMallik/AtliQ-Finance_Analytics_Excel/assets/78590686/38cd4100-a37d-4ca3-8284-798e61367859)
+
 
 
 ## Technical Skills:
